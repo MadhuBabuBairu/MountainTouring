@@ -20,7 +20,7 @@ body {
 .Hero {
     width: 720px;
     height: 720px;
-    background-image: url("/images/mountainRoad.jpg");
+    background-image: url("mountainRoad.jpg");
     background-size: cover;
     text-align: center;
     margin-top: 0%;
