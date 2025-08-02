@@ -18,7 +18,7 @@ body {
 }
 
 .Hero {
-    width: 720px;
+/*     width: 720px; */
     height: 720px;
     background-image: url("mountainRoad.jpg");
     background-size: cover;
@@ -62,7 +62,7 @@ h3 {
 
 .Activity {
     /* border: solid black; */
-    width: 720px;
+/*     width: 720px; */
     height: 335px;
     margin-top: 343px;
     margin: auto auto;
