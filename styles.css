@@ -60,16 +60,6 @@ h3 {
     font-size: 24px;
 }
 
-#bg-img {
-    margin: 20px auto;
-    max-width: 400px;
-    height: 400px;
-    border: 6px solid white;
-    border-radius: 10px;
-    background-size: cover;
-    background-image: url("/images/mountainRoad.jpg");
-}
-
 .Activity {
     /* border: solid black; */
     width: 720px;
